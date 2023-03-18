@@ -1,0 +1,9 @@
+vertex,{priority queue vertex 1},{priority queue vertex 2},{priority queue vertex n}
+S,{n/B|f/6|via/S},{n/A|f/7|via/S}
+B,{n/A|f/7|via/S},{n/C|f/7|via/B}
+A,{n/B|f/5|via/A},{n/C|f/7|via/B},{n/C|f/7|via/A},{n/G|f/13|via/A}
+B,{n/C|f/6|via/B},{n/C|f/7|via/B},{n/C|f/7|via/A},{n/G|f/13|via/A}
+C,{n/G|f/8|via/C},{n/G|f/13|via/A}
+G,Goal Vertex Reached
+Path: S => A => B => C => G
+Cost: 8

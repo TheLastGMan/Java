@@ -1,0 +1,12 @@
+vertex,{priority queue vertex 1},{priority queue vertex 2},{priority queue vertex n}
+S,{n/B|f/6|via/S},{n/K|f/7|via/S},{n/F|f/8|via/S}
+B,{n/K|f/7|via/S},{n/F|f/8|via/S},{n/M|f/9|via/B},{n/J|f/9|via/B}
+K,{n/F|f/8|via/S},{n/E|f/9|via/K},{n/M|f/9|via/B},{n/J|f/9|via/B},{n/D|f/11|via/K}
+F,{n/E|f/9|via/K},{n/M|f/9|via/B},{n/J|f/9|via/B},{n/A|f/10|via/F},{n/D|f/11|via/K},{n/O|f/11|via/F},{n/L|f/11|via/F}
+E,{n/M|f/9|via/B},{n/J|f/9|via/B},{n/Q|f/9|via/E},{n/A|f/10|via/F},{n/D|f/11|via/K},{n/O|f/11|via/F},{n/L|f/11|via/F}
+M,{n/J|f/9|via/B},{n/Q|f/9|via/E},{n/A|f/10|via/F},{n/D|f/11|via/K},{n/O|f/11|via/F},{n/L|f/11|via/F},{n/C|f/13|via/M}
+J,{n/Q|f/9|via/E},{n/G|f/9|via/J},{n/A|f/10|via/F},{n/D|f/11|via/K},{n/O|f/11|via/F},{n/L|f/11|via/F},{n/H|f/12|via/J},{n/C|f/13|via/M}
+Q,{n/G|f/9|via/J},{n/A|f/10|via/F},{n/A|f/11|via/Q},{n/D|f/11|via/K},{n/O|f/11|via/F},{n/L|f/11|via/F},{n/H|f/12|via/J},{n/I|f/12|via/Q},{n/C|f/13|via/M}
+G,Goal Vertex Reached
+Path: S => B => J => G
+Cost: 9

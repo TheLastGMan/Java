@@ -1,0 +1,12 @@
+1) Transfers a file between two endpoints
+2) Run Receiver first so it's listening ahead of time
+3) Run Sender to transfer the file to the receiver
+4) Example commands to run are below
+5) From the bin directory
+
+java Server.MainReceiver
+java Client.MainSender
+
+6) For debug output instead of info
+java -DMIN_LOG_LEVEL=DEBUG Server.MainReceiver
+java -DMIN_LOG_LEVEL=DEBUG Client.MainSender

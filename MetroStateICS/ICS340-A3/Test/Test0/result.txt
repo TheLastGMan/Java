@@ -1,0 +1,365 @@
+GAC Algorithm Trace
+Active Constraint: 1 d(v262a) != d(v262b)
+TDA List {
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 2 d(v264a) != d(v264b)
+TDA List {
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 3 d(v262a) = d(v264a)
+TDA List {
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 4 d(v262b) = d(v264b)
+TDA List {
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 5 d(v264a) != d(v280)
+TDA List {
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 6 d(v264b) != d(v280)
+TDA List {
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 7 d(v280) = d(v380)
+TDA List {
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+No Updates
+Active Constraint: 8 d(v280) = dM
+TDA List {
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+Domain Updated: v280 {dM} | vdM {dM}
+Active Constraint: 9 d(v380) = d(v499)
+TDA List {
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+}
+No Updates
+Active Constraint: 10 d(v262a) = dT
+TDA List {
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+}
+Domain Updated: v262a {dT} | vdT {dT}
+Active Constraint: 1 d(v262a) != d(v262b)
+TDA List {
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+}
+Domain Updated: v262a {dT} | v262b {dM, dW, dH}
+Active Constraint: 2 d(v264a) != d(v264b)
+TDA List {
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+}
+No Updates
+Active Constraint: 3 d(v262a) = d(v264a)
+TDA List {
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+}
+Domain Updated: v262a {dT} | v264a {dT}
+Active Constraint: 4 d(v262b) = d(v264b)
+TDA List {
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+}
+Domain Updated: v262b {dM, dW, dH} | v264b {dM, dW, dH}
+Active Constraint: 5 d(v264a) != d(v280)
+TDA List {
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 6 d(v264b) != d(v280)
+TDA List {
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+Domain Updated: v264b {dW, dH} | v280 {dM}
+Active Constraint: 7 d(v280) = d(v380)
+TDA List {
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+}
+Domain Updated: v280 {dM} | v380 {dM}
+Active Constraint: 8 d(v280) = dM
+TDA List {
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+}
+No Updates
+Active Constraint: 9 d(v380) = d(v499)
+TDA List {
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+}
+Domain Updated: v380 {dM} | v499 {dM}
+Active Constraint: 10 d(v262a) = dT
+TDA List {
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+}
+No Updates
+Active Constraint: 1 d(v262a) != d(v262b)
+TDA List {
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+}
+No Updates
+Active Constraint: 2 d(v264a) != d(v264b)
+TDA List {
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+}
+No Updates
+Active Constraint: 3 d(v262a) = d(v264a)
+TDA List {
+  4 d(v262b) = d(v264b)
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+}
+No Updates
+Active Constraint: 4 d(v262b) = d(v264b)
+TDA List {
+  5 d(v264a) != d(v280)
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+}
+Domain Updated: v262b {dW, dH} | v264b {dW, dH}
+Active Constraint: 5 d(v264a) != d(v280)
+TDA List {
+  6 d(v264b) != d(v280)
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 6 d(v264b) != d(v280)
+TDA List {
+  7 d(v280) = d(v380)
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 7 d(v280) = d(v380)
+TDA List {
+  8 d(v280) = dM
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 8 d(v280) = dM
+TDA List {
+  9 d(v380) = d(v499)
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 9 d(v380) = d(v499)
+TDA List {
+  10 d(v262a) = dT
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 10 d(v262a) = dT
+TDA List {
+  1 d(v262a) != d(v262b)
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 1 d(v262a) != d(v262b)
+TDA List {
+  2 d(v264a) != d(v264b)
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 2 d(v264a) != d(v264b)
+TDA List {
+  3 d(v262a) = d(v264a)
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 3 d(v262a) = d(v264a)
+TDA List {
+  4 d(v262b) = d(v264b)
+}
+No Updates
+Active Constraint: 4 d(v262b) = d(v264b)
+TDA List {
+}
+No Updates
+----- RESULTS -----
+v262a {dT}
+v262b {dW, dH}
+v264a {dT}
+v264b {dW, dH}
+v280 {dM}
+v380 {dM}
+v484 {dM, dT, dW, dH}
+v499 {dM}

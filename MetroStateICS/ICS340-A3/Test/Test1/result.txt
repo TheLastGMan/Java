@@ -1,0 +1,1540 @@
+GAC Algorithm Trace
+Active Constraint: 1 d(v240a) != d(v240b)
+TDA List {
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 2 d(v311) != d(v325)
+TDA List {
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 3 d(v311) != d(v370)
+TDA List {
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 4 d(v311) != d(v382)
+TDA List {
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 5 d(v311) != d(v340)
+TDA List {
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 6 d(v311) != d(v365)
+TDA List {
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 7 d(v311) != d(v372)
+TDA List {
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 8 d(v311) = dT
+TDA List {
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+Domain Updated: v311 {dT} | vdT {dT}
+Active Constraint: 9 d(v325) != d(v370)
+TDA List {
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 10 d(v325) != d(v382)
+TDA List {
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 11 d(v370) != d(v382)
+TDA List {
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 12 d(v340) != d(v365)
+TDA List {
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 13 d(v340) != d(v372)
+TDA List {
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 14 d(v365) != d(v372)
+TDA List {
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 15 d(v425) != d(v470)
+TDA List {
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 16 d(v440) != d(v460)
+TDA List {
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 17 d(v440) != d(v462)
+TDA List {
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 18 d(v460) != d(v462)
+TDA List {
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 19 d(v499a) != d(v499b)
+TDA List {
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+No Updates
+Active Constraint: 20 d(v440) = dM
+TDA List {
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+}
+Domain Updated: v440 {dM} | vdM {dM}
+Active Constraint: 21 d(v499a) = dW
+TDA List {
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+}
+Domain Updated: v499a {dW} | vdW {dW}
+Active Constraint: 22 d(v462) != dH
+TDA List {
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+}
+Domain Updated: v462 {dM, dT, dW} | vdH {dH}
+Active Constraint: 23 d(v370) = d(v372)
+TDA List {
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+}
+No Updates
+Active Constraint: 24 d(v460) = d(v461)
+TDA List {
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+}
+No Updates
+Active Constraint: 1 d(v240a) != d(v240b)
+TDA List {
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+}
+No Updates
+Active Constraint: 2 d(v311) != d(v325)
+TDA List {
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+}
+Domain Updated: v311 {dT} | v325 {dM, dW, dH}
+Active Constraint: 3 d(v311) != d(v370)
+TDA List {
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+}
+Domain Updated: v311 {dT} | v370 {dM, dW, dH}
+Active Constraint: 4 d(v311) != d(v382)
+TDA List {
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+}
+Domain Updated: v311 {dT} | v382 {dM, dW, dH}
+Active Constraint: 5 d(v311) != d(v340)
+TDA List {
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+}
+Domain Updated: v311 {dT} | v340 {dM, dW, dH}
+Active Constraint: 6 d(v311) != d(v365)
+TDA List {
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+}
+Domain Updated: v311 {dT} | v365 {dM, dW, dH}
+Active Constraint: 7 d(v311) != d(v372)
+TDA List {
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+}
+Domain Updated: v311 {dT} | v372 {dM, dW, dH}
+Active Constraint: 8 d(v311) = dT
+TDA List {
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 9 d(v325) != d(v370)
+TDA List {
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 10 d(v325) != d(v382)
+TDA List {
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 11 d(v370) != d(v382)
+TDA List {
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 12 d(v340) != d(v365)
+TDA List {
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 13 d(v340) != d(v372)
+TDA List {
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 14 d(v365) != d(v372)
+TDA List {
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 15 d(v425) != d(v470)
+TDA List {
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+No Updates
+Active Constraint: 16 d(v440) != d(v460)
+TDA List {
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+}
+Domain Updated: v440 {dM} | v460 {dT, dW, dH}
+Active Constraint: 17 d(v440) != d(v462)
+TDA List {
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+}
+Domain Updated: v440 {dM} | v462 {dT, dW}
+Active Constraint: 18 d(v460) != d(v462)
+TDA List {
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+}
+No Updates
+Active Constraint: 19 d(v499a) != d(v499b)
+TDA List {
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+}
+Domain Updated: v499a {dW} | v499b {dM, dT, dH}
+Active Constraint: 20 d(v440) = dM
+TDA List {
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+}
+No Updates
+Active Constraint: 21 d(v499a) = dW
+TDA List {
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+}
+No Updates
+Active Constraint: 22 d(v462) != dH
+TDA List {
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+}
+No Updates
+Active Constraint: 23 d(v370) = d(v372)
+TDA List {
+  24 d(v460) = d(v461)
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+}
+No Updates
+Active Constraint: 24 d(v460) = d(v461)
+TDA List {
+  1 d(v240a) != d(v240b)
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+}
+Domain Updated: v460 {dT, dW, dH} | v461 {dT, dW, dH}
+Active Constraint: 1 d(v240a) != d(v240b)
+TDA List {
+  2 d(v311) != d(v325)
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 2 d(v311) != d(v325)
+TDA List {
+  3 d(v311) != d(v370)
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 3 d(v311) != d(v370)
+TDA List {
+  4 d(v311) != d(v382)
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 4 d(v311) != d(v382)
+TDA List {
+  5 d(v311) != d(v340)
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 5 d(v311) != d(v340)
+TDA List {
+  6 d(v311) != d(v365)
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 6 d(v311) != d(v365)
+TDA List {
+  7 d(v311) != d(v372)
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 7 d(v311) != d(v372)
+TDA List {
+  8 d(v311) = dT
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 8 d(v311) = dT
+TDA List {
+  9 d(v325) != d(v370)
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 9 d(v325) != d(v370)
+TDA List {
+  10 d(v325) != d(v382)
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 10 d(v325) != d(v382)
+TDA List {
+  11 d(v370) != d(v382)
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 11 d(v370) != d(v382)
+TDA List {
+  12 d(v340) != d(v365)
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 12 d(v340) != d(v365)
+TDA List {
+  13 d(v340) != d(v372)
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 13 d(v340) != d(v372)
+TDA List {
+  14 d(v365) != d(v372)
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 14 d(v365) != d(v372)
+TDA List {
+  15 d(v425) != d(v470)
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 15 d(v425) != d(v470)
+TDA List {
+  16 d(v440) != d(v460)
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 16 d(v440) != d(v460)
+TDA List {
+  17 d(v440) != d(v462)
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 17 d(v440) != d(v462)
+TDA List {
+  18 d(v460) != d(v462)
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 18 d(v460) != d(v462)
+TDA List {
+  19 d(v499a) != d(v499b)
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 19 d(v499a) != d(v499b)
+TDA List {
+  20 d(v440) = dM
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 20 d(v440) = dM
+TDA List {
+  21 d(v499a) = dW
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 21 d(v499a) = dW
+TDA List {
+  22 d(v462) != dH
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 22 d(v462) != dH
+TDA List {
+  23 d(v370) = d(v372)
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 23 d(v370) = d(v372)
+TDA List {
+  24 d(v460) = d(v461)
+}
+No Updates
+Active Constraint: 24 d(v460) = d(v461)
+TDA List {
+}
+No Updates
+----- RESULTS -----
+v240a {dM, dT, dW, dH}
+v240b {dM, dT, dW, dH}
+v311 {dT}
+v325 {dM, dW, dH}
+v340 {dM, dW, dH}
+v365 {dM, dW, dH}
+v370 {dM, dW, dH}
+v372 {dM, dW, dH}
+v382 {dM, dW, dH}
+v425 {dM, dT, dW, dH}
+v440 {dM}
+v460 {dT, dW, dH}
+v461 {dT, dW, dH}
+v462 {dT, dW}
+v470 {dM, dT, dW, dH}
+v499a {dW}
+v499b {dM, dT, dH}

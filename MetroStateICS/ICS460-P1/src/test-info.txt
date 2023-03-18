@@ -1,0 +1,7 @@
+1) Transfers a file between two endpoints
+2) Run Receiver first so it's listening ahead of time
+3) Run Sender to transfer the file to the receiver
+4) Example commands to run are below
+
+java MainReceiver "test-recv.png" localhost 31415
+java MainSender "test.png" localhost 31415

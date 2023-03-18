@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/rgau1/Desktop/ICS311-RyanGau-TermProject.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ICS-311-TermProject/ProjectDescription.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ICS-311-TermProject/Application&lt;Application.Controls{MainFrame.java[MainFrame" manifestLocation="/ICS-311-TermProject/ProjectManifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/ICS-311-TermProject/jgoodies-forms-1.8.0-sources.jar"/>
+        <javaElement handleIdentifier="=ICS-311-TermProject/Application"/>
+        <file path="/ICS-311-TermProject/.classpath"/>
+        <folder path="/ICS-311-TermProject/Plugins"/>
+        <javaElement handleIdentifier="=ICS-311-TermProject/Service"/>
+        <javaElement handleIdentifier="=ICS-311-TermProject/Data"/>
+        <file path="/ICS-311-TermProject/.project"/>
+        <folder path="/ICS-311-TermProject/doc"/>
+        <file path="/ICS-311-TermProject/ProjectManifest"/>
+    </selectedElements>
+</jardesc>

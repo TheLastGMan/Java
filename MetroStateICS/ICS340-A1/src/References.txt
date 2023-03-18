@@ -1,0 +1,5 @@
+System Package: (QList, Stopwatch, etc...)
+http://apps.rpgcor.com/java/
+
+Dynamic Programming Formula:
+http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/

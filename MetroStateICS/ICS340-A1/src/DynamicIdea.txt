@@ -1,0 +1,16 @@
+The Dynamic Programming : KnapsackAIDynamic.java uses a modified formula
+from the site: http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+to allow for the storage of products associated with that weight.
+
+The idea is we fill our base case with all zero weights, so we have an easy reference to compare against,
+instead of always checking if we are the base index to apply special logic.
+
+The formula iterates through all products and all valid weights and fills each slot with the best value for that weight.
+First, we iterate through each product and load the product at that position of the input.
+Then, we iterate through all valid weights, up to the maximum weight input for the knapsack
+If our active products weight is larger than the weight slot we are on, we take the best value from the previous product's slot for the weight slot we are checking
+Otherwise, we take the previous item's slot, less our weight and add them together.
+If we have a higher than the value compared to the previous item's calculated weight slot we are on, we fill our weight slot with the new best result, otherwise we keep the previous best value.
+We also take our calculated value if it is equal to the previous value, this is to preference higher weighted items being used first, leaving lesser weighted items to be used in the future.
+We keep doing this through all valid products and weights.
+Finally, we return the very best computed value result, that contains the associated product combination.

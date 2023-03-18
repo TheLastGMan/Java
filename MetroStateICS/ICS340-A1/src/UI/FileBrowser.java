@@ -1,0 +1,104 @@
+/**
+ *
+ */
+package UI;
+
+import java.awt.*;
+import java.awt.event.*;
+import java.io.File;
+
+import javax.swing.*;
+
+/**
+ * @author Ryan Gau
+ * @version 1.0
+ */
+public class FileBrowser extends JPanel {
+	private static final long serialVersionUID = 9140759509286588376L;
+	private JFileChooser browser = new JFileChooser("./");
+	private JTextField textFilePath;
+	private JLabel lblName;
+	
+	/**
+	 * Create the panel.
+	 */
+	public FileBrowser() {
+		GridBagLayout gridBagLayout = new GridBagLayout();
+		gridBagLayout.columnWidths = new int[] { 100 };
+		gridBagLayout.rowHeights = new int[] { 30, 30, 30 };
+		gridBagLayout.columnWeights = new double[] { 1.0 };
+		gridBagLayout.rowWeights = new double[] { 0.0, 0.0, 0.0 };
+		setLayout(gridBagLayout);
+
+		lblName = new JLabel("[Name]");
+		GridBagConstraints gbc_lblName = new GridBagConstraints();
+		gbc_lblName.insets = new Insets(0, 0, 5, 0);
+		gbc_lblName.gridx = 0;
+		gbc_lblName.gridy = 0;
+		add(lblName, gbc_lblName);
+
+		textFilePath = new JTextField();
+		textFilePath.setBackground(Color.WHITE);
+		textFilePath.setEditable(false);
+		GridBagConstraints gbc_textFilePath = new GridBagConstraints();
+		gbc_textFilePath.insets = new Insets(0, 0, 5, 0);
+		gbc_textFilePath.fill = GridBagConstraints.HORIZONTAL;
+		gbc_textFilePath.gridx = 0;
+		gbc_textFilePath.gridy = 1;
+		add(textFilePath, gbc_textFilePath);
+		textFilePath.setColumns(10);
+
+		JButton btnNewButton = new JButton("Browse");
+		btnNewButton.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (browser.showOpenDialog(null) == JFileChooser.APPROVE_OPTION) {
+					try {
+						if (browser.getSelectedFile().exists()) {
+							textFilePath.setText(browser.getSelectedFile().getPath());
+						}
+					}
+					catch (Exception ex) {
+						System.err.println("Browse Error: " + ex.getMessage());
+					}
+				}
+			}
+		});
+		GridBagConstraints gbc_btnNewButton = new GridBagConstraints();
+		gbc_btnNewButton.gridx = 0;
+		gbc_btnNewButton.gridy = 2;
+		add(btnNewButton, gbc_btnNewButton);
+	}
+
+	// #Region Properties
+	
+	/**
+	 * Set Title
+	 *
+	 * @param text
+	 *            String
+	 */
+	public void setText(String text) {
+		lblName.setText(text);
+	}
+	
+	/**
+	 * get Text
+	 *
+	 * @return String
+	 */
+	public String getText() {
+		return lblName.getText();
+	}
+	
+	/**
+	 * get File
+	 *
+	 * @return File
+	 */
+	public File getFile() {
+		return new File(textFilePath.getText());
+	}
+
+	// #EndRegion
+}
